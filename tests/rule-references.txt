@@ -328,6 +328,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/living-off-winrm-abusing-complexity-in-remote-management/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://cert.gov.ua/article/6284080
@@ -681,6 +682,7 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defe
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/what-is-applocker
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-driver-block-rules
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-exploit-guard/attack-surface-reduction-exploit-guard?WT.mc_id=twitter
 https://docs.microsoft.com/en-us/windows/win32/adschema/attributes-all
 https://docs.microsoft.com/en-us/windows/win32/amsi/how-amsi-helps
@@ -703,6 +705,7 @@ https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/#enabling-core-dum
 https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
 https://docs.python.org/2/library/simplehttpserver.html
+https://docs.python.org/3/library/base64.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
@@ -959,6 +962,7 @@ https://github.com/elastic/detection-rules/blob/c76a39796972ecde44cb1da6df47f1b6
 https://github.com/elastic/detection-rules/blob/da3852b681cf1a33898b1535892eab1f3a76177a/rules/integrations/azure/defense_evasion_kubernetes_events_deleted.toml
 https://github.com/elastic/detection-rules/blob/dd224fb3f81d0b4bf8593c5f02a029d647ba2b2d/rules/windows/credential_access_relay_ntlm_auth_via_http_spoolss.toml
 https://github.com/elastic/detection-rules/blob/fb6ee2c69864ffdfe347bf3b050cb931f53067a6/rules/windows/privilege_escalation_krbrelayup_suspicious_logon.toml
+https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/defense_evasion_guardduty_detector_deletion.toml
 https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/blob/v8.6.0/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/issues/1371
@@ -1167,6 +1171,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/7a806a148b3d9d381193d4a80356
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/22H2/W10_22H2_Pro_20230321_19045.2728/WEPExplorer/LsaSrv.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows11/22H2/W11_22H2_Pro_20221220_22621.963/WEPExplorer/Microsoft-Windows-MsiServer.xml
+https://github.com/nasbench/Misc-Research/blob/2f651ede832ab34027a7ba005b63bb78f1ade378/Other/React-Next-Child-Processes-Notes.md
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
@@ -2066,12 +2071,14 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5038
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6281
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6416
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6423
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc959352(v=technet.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc960241(v=technet.10)?redirectedfrom=MSDN
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
@@ -2114,6 +2121,7 @@ https://learn.microsoft.com/en-us/windows-hardware/drivers/taef/
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell
 https://learn.microsoft.com/en-us/windows-server/administration/server-core/server-core-sconfig#powershell-is-the-default-shell-on-server-core
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/assoc
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/certutil
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chcp
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/clip
@@ -2136,6 +2144,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/takeown
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
@@ -2376,6 +2385,7 @@ https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Asaf%20Gi
 https://media.defense.gov/2020/Jun/09/2002313081/-1/-1/0/CSI-DETECT-AND-PREVENT-WEB-SHELL-MALWARE-20200422.PDF
 https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF
 https://media.defense.gov/2023/May/09/2003218554/-1/-1/0/JOINT_CSA_HUNTING_RU_INTEL_SNAKE_MALWARE_20230509.PDF
+https://media.githubusercontent.com/media/splunk/attack_data/master/datasets/attack_techniques/T1110.001/aws_login_failure/aws_cloudtrail_events.json
 https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf
 https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2022/06/23093553/Common-TTPs-of-the-modern-ransomware_low-res.pdf
 https://medium.com/@7a616368/can-you-track-processes-accessing-the-camera-and-microphone-7e6885b37072
@@ -2402,6 +2412,7 @@ https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
 https://medium.com/@olafhartong/sysmon-15-0-file-executable-detected-40fd64349f36
 https://medium.com/@petehouston/upload-files-with-curl-93064dcccc76
+https://medium.com/@poudelswachchhanda123/preventing-lnk-and-fakecaptcha-threats-a-system-hardening-approach-2f7b7ed2e493
 https://medium.com/@redfanatic7/running-kali-linux-on-windows-51ad95166e6e
 https://medium.com/@reegun/curl-exe-is-the-new-rundll32-exe-lolbin-3f79c5f35983
 https://medium.com/@reegun/unsanitized-file-validation-leads-to-malicious-payload-download-via-office-binaries-202d02db7191
@@ -3201,6 +3212,7 @@ https://twitter.com/killamjr/status/1179034907932315648
 https://twitter.com/kladblokje_88/status/1614673320124743681?s=12&t=joEpeVa5d58aHYNGA_To7Q
 https://twitter.com/kleiton0x7e/status/1600567316810551296
 https://twitter.com/kmkz_security/status/1220694202301976576
+https://twitter.com/Kostastsale/status/1480716528421011458
 https://twitter.com/Kostastsale/status/1565257924204986369
 https://twitter.com/Kostastsale/status/1646256901506605063?s=20
 https://twitter.com/Kostastsale/status/1700965142828290260
@@ -3543,6 +3555,7 @@ https://www.advanced-ip-scanner.com/
 https://www.advanced-port-scanner.com/
 https://www.advintel.io/post/secret-backdoor-behind-conti-ransomware-operation-introducing-atera-agent
 https://www.agnosticdev.com/content/how-diagnose-app-transport-security-issues-using-nscurl-and-openssl
+https://www.akamai.com/blog/security-research/abusing-bad-successor-for-privilege-escalation-in-active-directory
 https://www.alienvault.com/blogs/security-essentials/dynamic-dns-security-and-potential-threats
 https://www.ammyy.com/en/admin_features.html
 https://www.ampliasecurity.com/research/windows-credentials-editor/
@@ -3629,6 +3642,7 @@ https://www.cobaltstrike.com/help-windows-executable
 https://www.computerhope.com/unix/unohup.htm
 https://www.configserverfirewall.com/ubuntu-linux/ubuntu-add-user-to-root-group/
 https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
+https://www.coreycburton.com/blog/driploader-case-study
 https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
 https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/
 https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/
@@ -3673,6 +3687,7 @@ https://www.echotrail.io/insights/search/wermgr.exe
 https://www.echotrail.io/insights/search/wusa.exe/
 https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/
 https://www.elastic.co/blog/advanced-techniques-used-in-malaysian-focused-apt-campaign
+https://www.elastic.co/docs/reference/security/prebuilt-rules/rules/integrations/aws/defense_evasion_ec2_flow_log_deletion
 https://www.elastic.co/fr/blog/how-attackers-abuse-access-token-manipulation
 https://www.elastic.co/guide/en/security/7.17/prebuilt-rule-0-16-1-scheduled-task-execution-at-scale-via-gpo.html
 https://www.elastic.co/guide/en/security/8.4/potential-shadow-credentials-added-to-ad-object.html
@@ -3768,6 +3783,7 @@ https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-da
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
 https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/
 https://www.hackers-arise.com/post/2016/06/20/covering-your-bash-shell-tracks-antiforensics
+https://www.hackingarticles.in/defense-evasion-windows-event-logging-t1562-002/
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
